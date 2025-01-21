@@ -1,4 +1,5 @@
 # enterprisedb
+
 ## Introduction
 有幸又开始PostgreSQL和EDB数据库相关的工作。在这里记录一些中文的相关文档和资料。
 ## Contents
